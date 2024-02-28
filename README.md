@@ -1,2 +1,2 @@
 # cardCSS
-a card in CSS about Samuel Lamidey (Raegular)
+As part of my training, I had to create a responsive card that complies with RGAAA and SEO standards. I chose Samuel Lamidey (Raegular), who is a French designer.
